@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rokuseru
 - 👀 I’m interested in Learning Programming
-- 🌱 I’m currently learning C# Windows Form
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on my works in the future
 
 <!---
